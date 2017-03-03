@@ -19,7 +19,7 @@ public class AnsweredData {
 		return res;
 	}
 	
-	public void setRespondent(Respondent res) {
+	public void setRes(Respondent res) {
 		this.res = res;
 	}
 }

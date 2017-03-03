@@ -1,6 +1,7 @@
 package survey;
 
 public class Respondent {
+	
 	private int age;
 	private String location;
 	
